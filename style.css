@@ -9,7 +9,7 @@
 }
 
 @media (max-width: 300px) {
-    .container {
+    .container { 
         border: 2px solid green;
     }
 }
